@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BusinessObject",
+    "\\DataAccess",
+    "\\DataAccess\\Repository",
+    "\\MyStoreWinApp"
+  ],
+  "SelectedNode": "\\DataAccess\\MemberDAO.cs",
+  "PreviewInSolutionExplorer": false
+}

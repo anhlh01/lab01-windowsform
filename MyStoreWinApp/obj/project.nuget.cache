@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eTOFIWfQHV7qdBOTacCf6iJzJOt4bsjukRY+C5aUNIanboR3gLnu+q7cxldeQTH7l1q/oknLo2iyfVpz+XH0RQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\bai1\\Ass01Solution-SE1505-SE150515\\Ass01Solution\\MyStoreWinApp\\MyStoreWinApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
